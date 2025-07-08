@@ -5,6 +5,6 @@ title: Welcome to my blog!
 - **Bold Text**
 - *Italic Text*
 ## This is a Heading 2
-- **Bold and Italic**
+- ***Bold and Italic***
 - ~~Strikethrough~~
 - 
